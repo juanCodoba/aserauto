@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter basename="/aserauto">
       <AuthProvider>
         <Routes>
-          <Route path="/" element={<LoginView />} />
+          <Route path="/login" element={<LoginView />} />
           <Route path="/chat" element={<ChatView />} />
         </Routes>
       </AuthProvider>
