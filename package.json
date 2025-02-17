@@ -2,7 +2,7 @@
   "name": "aserauto",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://[juanCodoba].github.io/[aserauto]",
+  "homepage": "https://juanCodoba.github.io/aserauto",
   "dependencies": {
     "@azure/msal-browser": "^4.2.1",
     "aserauto": "file:",
