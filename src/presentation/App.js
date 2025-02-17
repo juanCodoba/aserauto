@@ -6,7 +6,7 @@ import { AuthProvider } from '../core/auth/AuthContext'; // Importa el AuthProvi
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/aserauto">
       <AuthProvider>
         <Routes>
           <Route path="/" element={<LoginView />} />
