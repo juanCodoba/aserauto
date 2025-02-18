@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route, Navigate } from 'react-router-dom'; // Quita HashRouter
 import LoginView from '../presentation/views/LoginView';
 import ChatView from '../presentation/views/ChatView';
 import { AuthProvider } from '../core/auth/AuthContext';
