@@ -14,7 +14,7 @@ const msalConfig = {
 
 const msalInstance = new PublicClientApplication(msalConfig);
 
-// Inicializar MSAL
+// Inicializar MSAL prueba
 msalInstance.initialize().then(() => {
   console.log('MSAL inicializado correctamente');
 }).catch((error) => {
