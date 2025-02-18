@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aserauto/static/css/main.c01d63c0.css",
-    "main.js": "/aserauto/static/js/main.e30a01c1.js",
+    "main.js": "/aserauto/static/js/main.26e64bfe.js",
     "index.html": "/aserauto/index.html",
     "main.c01d63c0.css.map": "/aserauto/static/css/main.c01d63c0.css.map",
-    "main.e30a01c1.js.map": "/aserauto/static/js/main.e30a01c1.js.map"
+    "main.26e64bfe.js.map": "/aserauto/static/js/main.26e64bfe.js.map"
   },
   "entrypoints": [
     "static/css/main.c01d63c0.css",
-    "static/js/main.e30a01c1.js"
+    "static/js/main.26e64bfe.js"
   ]
 }
